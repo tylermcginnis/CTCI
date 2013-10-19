@@ -1,4 +1,3 @@
-Cracking-The-Coding-Interview---Javascript
+CTCI
 ==========================================
 
-A collection of solutions to Cracking the Coding Interview, in Javascript.
